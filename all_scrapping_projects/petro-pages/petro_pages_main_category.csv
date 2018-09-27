@@ -1,0 +1,36 @@
+Category_name,Category_ID,URL,friendlyURL
+Automation Controls,219,http://petropages.directory/industrial/219,instrumentation-controls/automation-controls
+Boilers,279,http://petropages.directory/industrial/279,mechanical-process/fired-boilers
+Chemicals,7,http://petropages.directory/industrial/7,industrial-chemicals
+Civil - Structural,6,http://petropages.directory/industrial/6,civil-structural
+Coatings,281,http://petropages.directory/industrial/281,mechanical-process/process-coatings
+Columns,280,http://petropages.directory/industrial/280,mechanical-process/process-columns
+Compressor,2610,http://petropages.directory/industrial/2610,mechanical-process/rotating-reciprocating/industrial-compressors
+Construction,1,http://petropages.directory/industrial/1,construction
+Dryers,285,http://petropages.directory/industrial/285,mechanical-process/industrial-dryers
+Electrical,8,http://petropages.directory/industrial/8,electrical
+Environmental,9,http://petropages.directory/industrial/9,environmental
+Exploration-Production,17,http://petropages.directory/industrial/17,oil-and-gas
+Filters,276,http://petropages.directory/industrial/276,mechanical-process/process-filtration
+Heat Exchangers,273,http://petropages.directory/industrial/273,mechanical-process/heat-exchangers
+HVAC and Refrigeration,282,http://petropages.directory/industrial/282,mechanical-process/hvac-and-refrigeration
+Inspection & Testing,289,http://petropages.directory/industrial/289,industrial-plant-services/industrial-inspection
+Instrumentation,10,http://petropages.directory/industrial/10,instrumentation-controls
+Lubrication,284,http://petropages.directory/industrial/284,mechanical-process/industrial-lubrication
+"Machining,Weld,Treatments",283,http://petropages.directory/industrial/283,mechanical-process/machining-weld-treatments
+Maintenance,2615,http://petropages.directory/industrial/2615,mechanical-process/rotating-reciprocating/maintenance
+Materials Handling,272,http://petropages.directory/industrial/272,mechanical-process/materials-handling
+Mechanical Seals,7491,http://petropages.directory/industrial/7491,mechanical-process/rotating-reciprocating/components/sealing/mechanical-seals
+Mixers,271,http://petropages.directory/industrial/271,mechanical-process/mixers
+Packaged Units,2,http://petropages.directory/industrial/2,process-packaged-units
+Piping,4,http://petropages.directory/industrial/4,Piping-Valves-Insulation
+"Plate, Forgings, Castings",287,http://petropages.directory/industrial/287,mechanical-process/plate-forgings-castings
+Pumps,2609,http://petropages.directory/industrial/2609,mechanical-process/rotating-reciprocating/pumps
+Rotating Equipment,275,http://petropages.directory/industrial/275,mechanical-process/rotating-reciprocating
+Safety,5,http://petropages.directory/industrial/5,safety
+Separators,274,http://petropages.directory/industrial/274,mechanical-process/separators
+Services,16,http://petropages.directory/industrial/16,Industrial-Plant-Services
+Software/Data,11,http://petropages.directory/industrial/11,computers-data
+Tanks,277,http://petropages.directory/industrial/277,mechanical-process/vessels-tanks
+Valves,59,http://petropages.directory/industrial/59,piping-valves-insulation/valves
+Water Treatment,278,http://petropages.directory/industrial/278,mechanical-process/water-treatment
